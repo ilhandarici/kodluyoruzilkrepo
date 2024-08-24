@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Frond-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Frond-End Eğitiminde oluşturduğumuz ilk repo. içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 ----------------------------------------------------------------------------------------------------
 ![ödev1](https://github.com/user-attachments/assets/5695aeaf-53a2-493b-b357-31f73df9bca8)
 ----------------------------------------------------------------------------------------------------
